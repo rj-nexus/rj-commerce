@@ -31,9 +31,9 @@
 - **Reviews:** Customer product reviews with admin moderation (approve/reject/delete).
 - **Coupons:** Discount code management.
 - **Shipping:** Shipping zones and methods configuration.
-- **Payments:** Built-in support for Cash on Delivery (COD), Stripe, PayPal, Razorpay, and Crypto.
+- **Payments:** Built-in support for Cash on Delivery (COD), Stripe, PayPal, Checkout, Razorpay, and Crypto Payments (Binance Pay or Coinbase).
 - **Multi-language:** Built-in translation support for products, categories, and brands.
-- **REST API:** Comprehensive API for external integrations.
+- **REST API:** Comprehensive API for external integrations. *(Soon with RJ Commerce Pro, you will be able to connect remotely to the site and manage orders on the go!)*
 - **RJBuilder Widgets:** Out-of-the-box widgets for your page builder (Product Grid, Categories, Single Product, Cart).
 - **Modern UI:** Premium, responsive, and accessible frontend design (Vanilla JS & Tailwind CSS).
 
@@ -115,17 +115,17 @@ All API requests must include the following headers:
 
 ## Screenshots
 
-| Storefront | Product Page |
+| General Settings | Add Product |
 | :---: | :---: |
-| ![Storefront](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screensholt01.png) | ![Product Page](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screensholt02.png) |
+| ![General Settings](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screensholt01.png) | ![Add Product](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screensholt05.png) |
 
-| Shopping Cart | Checkout |
+| Storefront / Product Page | Payment Settings |
 | :---: | :---: |
-| ![Shopping Cart](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screensholt03.png) | ![Checkout](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screensholt04.png) |
+| ![Storefront](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screensholt02.png) | ![Payment Settings](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screensholt03.png) |
 
-| Order Success | Admin Dashboard |
+| API Settings | RJ Builder Widgets |
 | :---: | :---: |
-| ![Order Success](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screensholt05.png) | ![Admin Dashboard](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screensholt06.png) |
+| ![API Settings](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screensholt04.png) | ![RJ Builder Widgets](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screensholt06.png) |
 
 ## License
 
