@@ -117,15 +117,15 @@ All API requests must include the following headers:
 
 | Storefront | Product Page |
 | :---: | :---: |
-| ![Storefront](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screenshot01.png) | ![Product Page](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screenshot02.png) |
+| ![Storefront](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screensholt01.png) | ![Product Page](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screensholt02.png) |
 
 | Shopping Cart | Checkout |
 | :---: | :---: |
-| ![Shopping Cart](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screenshot03.png) | ![Checkout](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screenshot04.png) |
+| ![Shopping Cart](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screensholt03.png) | ![Checkout](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screensholt04.png) |
 
 | Order Success | Admin Dashboard |
 | :---: | :---: |
-| ![Order Success](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screenshot05.png) | ![Admin Dashboard](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screenshot06.png) |
+| ![Order Success](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screensholt05.png) | ![Admin Dashboard](https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/assets/images/screensholt06.png) |
 
 ## License
 
