@@ -26,7 +26,7 @@
         <div class="text-[11px] font-bold text-rj-purple uppercase tracking-wider mb-2">
             {{ $product->category?->translation()?->name ?? __('Uncategorized') }}
         </div>
-        
+
         <h2 class="text-2xl font-extrabold text-slate-900 mb-3 leading-tight">
             {{ $product->translation()?->name }}
         </h2>

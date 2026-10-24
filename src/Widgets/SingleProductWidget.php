@@ -36,7 +36,7 @@ class SingleProductWidget extends BaseWidget
     {
         $products = Product::with('translations')->where('status', 'published')->get();
         $options = ['' => __('— Select Product —')];
-        
+
         foreach ($products as $product) {
             $options[$product->id] = $product->translation()?->name ?? $product->slug;
         }
@@ -55,7 +55,7 @@ class SingleProductWidget extends BaseWidget
     public function render(array $settings): string
     {
         $productId = $settings['product_id'] ?? null;
-        
+
         if (!$productId) {
             return '<div class="p-4 bg-amber-50 text-amber-800 text-sm border border-amber-200 rounded-lg">' . __('Please select a product to display.') . '</div>';
         }

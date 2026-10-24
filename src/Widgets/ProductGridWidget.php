@@ -37,7 +37,7 @@ class ProductGridWidget extends BaseWidget
     {
         $categories = ProductCategory::with('translations')->get();
         $options = ['' => __('All Categories')];
-        
+
         foreach ($categories as $category) {
             $options[$category->id] = $category->translation()?->name ?? $category->slug;
         }
@@ -91,7 +91,7 @@ class ProductGridWidget extends BaseWidget
         }
 
         $orderby = $settings['orderby'] ?? 'latest';
-        
+
         if ($orderby === 'price_low') {
             $query->orderBy('price', 'asc');
         } elseif ($orderby === 'price_high') {
