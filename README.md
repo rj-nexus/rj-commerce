@@ -1,6 +1,12 @@
-# RJ Commerce
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rj-nexus/rj-commerce/main/screenshot.png" alt="RJ Commerce Logo" width="200">
+</p>
 
-A complete, self-hosted e-commerce solution for RJ CMS. RJ Commerce provides a robust backend for managing products, orders, and storefronts, alongside a flexible frontend architecture that integrates seamlessly with your themes.
+<h1 align="center">RJ Commerce</h1>
+
+<p align="center">
+  A complete, self-hosted e-commerce solution for RJ CMS. RJ Commerce provides a robust backend for managing products, orders, and storefronts, alongside a flexible frontend architecture that integrates seamlessly with your themes.
+</p>
 
 ## Requirements
 
